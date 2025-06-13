@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Inuka Mapa </h1>
+<h1 align="center">Hi there 👋, I'm Inuka Mapa</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring%20Software%20Developer;IT%20Undergraduate%20at%20CINEC;Passionate%20About%20Full-Stack%20Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Inuka&label=Profile%20views&color=0e75b6&style=flat" alt="inuka" />
+  <img src="https://komarev.com/ghpvc/?username=InukaMapa&label=Profile%20views&color=0e75b6&style=flat" alt="Inuka Mapa Profile Views" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently an **IT undergraduate at CINEC Campus**
-- 👨‍💻 My favourite language is python.
-- 🧠 I’m exploring Full-Stack Development, UI/UX Design, and Cloud Technologies  
+- 👨‍💻 My favourite language is **Python**.
+- 🧠 I’m exploring **Full-Stack Development, UI/UX Design, and Cloud Technologies**  
 - 🛠️ I love building practical projects to solve real-world problems  
 - ⚡ Fun fact: **Just call me SHAN!**
 
@@ -24,19 +24,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/inuka_madushan_mapa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Inuka Mapa LinkedIn"/>
   </a>
   <a href="https://fb.com/inuka_madushan_mapa" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Inuka Mapa Facebook"/>
   </a>
   <a href="https://instagram.com/inuka_madushan_mapa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Inuka Mapa Instagram"/>
   </a>
   <a href="https://www.youtube.com/c/imghost" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Inuka Mapa YouTube"/>
   </a>
   <a href="https://discord.gg/furyxd" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Inuka Mapa Discord"/>
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inuka&theme=onedark" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=InukaMapa&theme=onedark" alt="Inuka Mapa GitHub Trophy" />
 </p>
 
 ---
@@ -77,8 +77,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inuka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inuka&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InukaMapa&show_icons=true&theme=tokyonight" alt="Inuka Mapa GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InukaMapa&theme=tokyonight" alt="Inuka Mapa GitHub Streak" />
 </p>
 
 ---
